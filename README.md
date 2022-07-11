@@ -12,5 +12,7 @@ Sensor Suhu Kelembapan ini berfungsi sebagai mensensing objek suhu dan kelembaba
 * PIN DHT GPIO14 ( D5 ) -> DHT22 Pin DATA ( 2 )
 * PIN GND -> DHT22 Pin GND ( 4 )
 
-### Library
-https://github.com/adafruit/DHT-sensor-library
+### Reference, Library, Kode Pin WEMOS D1 Mini ESP8266
+* ( Reference ) https://www.arducoding.com/2018/05/arduino-temperature-and-humadity.html
+* ( Library ) https://github.com/adafruit/DHT-sensor-library
+* ( Kode Pin ) https://github.com/fahmiibrahimdev/arduino/blob/main/KODE%20PIN%20ARDUINO.txt
